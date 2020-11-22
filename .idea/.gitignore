@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../:\jupyter programs\ineuron\MachineLearningModelToGCP-master (1)\MachineLearningModelToGCP-master\MLForCloudDeployment_GCP\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
